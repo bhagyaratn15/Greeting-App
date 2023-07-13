@@ -20,7 +20,7 @@ ReactDOM.render(<div className="card-container">
     <p className="paragraph">How are you??</p>
 
     <ol>
-    <li className="name">Pooja</li>
+    <li className="name">Anaya</li>
     <li className="name">Pallavi</li>
     <li className="name">Shrikant</li>
     <li className="name">Vaibhav</li>
