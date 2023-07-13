@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basicapp/static/css/main.22f6e418.css",
+    "main.js": "/basicapp/static/js/main.95a35226.js",
+    "index.html": "/basicapp/index.html",
+    "main.22f6e418.css.map": "/basicapp/static/css/main.22f6e418.css.map",
+    "main.95a35226.js.map": "/basicapp/static/js/main.95a35226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f6e418.css",
+    "static/js/main.95a35226.js"
+  ]
+}
