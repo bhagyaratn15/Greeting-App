@@ -1,0 +1,42 @@
+.card-container{
+    color: black;
+    font-family: roboto;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.heading{
+    font-weight: bold;
+    color: blue;
+    font-size: 40px;
+}
+.image{
+    width: 300px;
+    height: 200px;
+
+}
+
+.paragraph{
+    
+    color: brown;
+    font-size: 30px;
+}
+.btn{
+    font-weight: bold;
+    color: yellow;
+    font-size: 30px;
+    background-color: green;
+   
+    text-align: center;
+    
+    
+}
+
+.name{
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
